@@ -1,4 +1,4 @@
-package test360;
+package Test360;
 
 import java.util.Arrays;
 import java.util.Scanner;
